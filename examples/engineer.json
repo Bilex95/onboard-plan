@@ -1,0 +1,17 @@
+{
+  "role": "Software Engineer",
+  "tasks": [
+    { "day": -5, "owner": "IT", "task": "Order laptop and monitor" },
+    { "day": -3, "owner": "HR", "task": "Send welcome email with day-1 logistics" },
+    { "day": -2, "owner": "IT", "task": "Create accounts: email, chat, code hosting, SSO" },
+    { "day": -1, "owner": "Manager", "task": "Pick an onboarding buddy and tell the team" },
+    { "day": 0, "owner": "Manager", "task": "Welcome meeting and walk through the 30-60-90 plan" },
+    { "day": 0, "owner": "HR", "task": "Complete contract, payroll and right-to-work checks" },
+    { "day": 1, "owner": "Buddy", "task": "Pair on getting the main repo running locally" },
+    { "day": 3, "owner": "New hire", "task": "Ship a first small change (docs fix or good first issue)" },
+    { "day": 4, "owner": "Manager", "task": "End-of-week-1 check-in" },
+    { "day": 9, "owner": "New hire", "task": "Shadow an on-call shift" },
+    { "day": 19, "owner": "Manager", "task": "30-day review: what's working, what's blocking" },
+    { "day": 59, "owner": "Manager", "task": "90-day review and goals for the next quarter" }
+  ]
+}
